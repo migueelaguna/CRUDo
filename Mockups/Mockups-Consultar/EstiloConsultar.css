@@ -1,0 +1,40 @@
+div
+{
+    text-align: center;
+
+}
+a
+{
+    text-decoration: none;
+    color:black;
+
+}
+.azul{
+    background: #007CBA;
+    border: 1px solid black;
+}
+.gris
+{
+    background: #767676;
+    border: 1px solid black;
+}
+.imagen
+{
+    border: 1px solid black;
+    margin-bottom: 3em;
+}
+#logo
+{
+    margin-bottom: 2em;
+}
+main
+{
+    margin-bottom: 2em;
+}
+.izquierda{
+    text-align: left;
+}
+.derecha{
+    text-align: right;
+}
+
