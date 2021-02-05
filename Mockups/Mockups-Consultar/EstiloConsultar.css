@@ -1,40 +1,90 @@
-div
+/* Cajas Principales */
+nav
+{
+	margin-bottom: 20px
+}
+#portada
+{
+	height: 300px;
+	margin: 0 auto;
+}
+
+main
+{
+	height: 210px;
+}
+
+footer
+{
+	height: 50px;
+	margin-top: 15.625em;
+}
+
+/* Propiedades General */
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+#colortuquesa
+{
+	background-color: #7CA6EC;
+}
+
+
+
+/* Propiedades de la Imagen */
+#imagen
+{
+	border: black 1px solid;
+	height: 110px;
+	width: 400px;
+}
+
+#imagen img
+{
+	width: 100%;
+	height: 100%;
+}
+
+/* Propiedades de la tabla */
+td
+{
+  border: 1px solid black;
+  text-align:center;
+  
+}
+
+#sinborde
+{
+	border: 1px solid white;
+	/*border-radius: 10px;*/
+}
+
+.centrado
 {
     text-align: center;
 
 }
-a
+.row
 {
-    text-decoration: none;
-    color:black;
-
-}
-.azul{
-    background: #007CBA;
-    border: 1px solid black;
+	margin-bottom: 2em;
 }
 .gris
 {
-    background: #767676;
-    border: 1px solid black;
+	background: #C1C3C3;
+	border: 1px solid black;
 }
-.imagen
-{
-    border: 1px solid black;
-    margin-bottom: 3em;
+.azul{
+	background: #7CA6EC;
+	border: 1px solid black;
 }
-#logo
-{
-    margin-bottom: 2em;
-}
-main
-{
-    margin-bottom: 2em;
-}
-.izquierda{
-    text-align: left;
-}
-.derecha{
-    text-align: right;
-}
+
+
+
+
+
+
+
 
