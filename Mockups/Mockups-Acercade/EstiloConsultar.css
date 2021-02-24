@@ -1,0 +1,94 @@
+/* Cajas Principales */
+nav
+{
+	margin-bottom: 20px
+}
+.container{
+
+	margin-left: 100px;
+}
+#portada
+{
+	height: 300px;
+	margin: 0 auto;
+}
+
+main
+{
+	min-height:600px;
+}
+
+footer
+{
+	height: 50px;
+	margin-top: 10.5em;
+}
+
+/* Propiedades General */
+a
+{
+	text-decoration: none;
+	color: black;
+}
+
+#colortuquesa
+{
+	background-color: #7CA6EC;
+}
+
+
+
+/* Propiedades de la Imagen */
+#imagen
+{
+	border: black 1px solid;
+	height: 110px;
+	width: 400px;
+}
+
+#imagen img
+{
+	width: 100%;
+	height: 100%;
+}
+
+/* Propiedades de la tabla */
+td
+{
+  border: 1px solid black;
+  text-align:center;
+  
+}
+
+#sinborde
+{
+	border: 1px solid white;
+	/*border-radius: 10px;*/
+}
+
+.centrado
+{
+    text-align: center;
+
+}
+.row
+{
+	margin-bottom: 2em;
+}
+.gris
+{
+	background: #C1C3C3;
+	border: 1px solid black;
+}
+.azul{
+	background: #7CA6EC;
+	border: 1px solid black;
+}
+
+
+
+
+
+
+
+
